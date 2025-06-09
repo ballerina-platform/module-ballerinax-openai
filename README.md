@@ -1,4 +1,4 @@
-# Ballerina Ballerina OpenAI Connector connector
+# Ballerina OpenAI connector
 
 [![Build](https://github.com/ballerina-platform/module-ballerinax-openai/actions/workflows/ci.yml/badge.svg)](https://github.com/ballerina-platform/module-ballerinax-openai/actions/workflows/ci.yml)
 [![GitHub Last Commit](https://img.shields.io/github/last-commit/ballerina-platform/module-ballerinax-openai.svg)](https://github.com/ballerina-platform/module-ballerinax-openai/commits/master)
