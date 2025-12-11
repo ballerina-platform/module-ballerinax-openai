@@ -5,7 +5,7 @@ name = "openai"
 version = "@toml.version@"
 license = ["Apache-2.0"]
 authors = ["Ballerina"]
-keywords = ["openai", "ai", "ChatGPT"]
+keywords = ["ChatGPT", "Vendor/OpenAI", "Area/AI", "Type/Connector"]
 icon = "icon.png"
 repository = "https://github.com/ballerina-platform/module-ballerinax-openai"
 
