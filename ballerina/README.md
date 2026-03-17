@@ -1,7 +1,14 @@
 ## Overview
 [OpenAI](https://openai.com/) provides a suite of powerful AI models and services for natural language processing, code generation, image understanding, and more.
 
-The `ballerinax/openai` package offers APIs to easily connect and interact with [OpenAI's RESTful API](https://openai.com/api/) endpoints, enabling seamless integration with models such as GPT, Whisper, and DALL·E.
+The OpenAI connector offers APIs to easily connect and interact with [OpenAI's RESTful API](https://openai.com/api/) endpoints, enabling seamless integration with models such as GPT, Whisper, and DALL·E.
+
+### Key Features
+- Access to advanced AI models including GPT-4o, GPT-4, and GPT-3.5
+- Support for image generation and manipulation via DALL·E
+- Audio transcription and translation services using Whisper
+- Robust security with API key-based authentication
+- Simplified handling of complex model parameters and responses
 
 ## Setup guide
 To use the OpenAI connector, you must have access to the OpenAI API through an OpenAI account and API key.  

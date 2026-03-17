@@ -2,10 +2,10 @@
 distribution = "2201.12.0"
 org = "ballerinax"
 name = "openai"
-version = "1.0.1"
+version = "1.0.2"
 license = ["Apache-2.0"]
 authors = ["Ballerina"]
-keywords = ["ChatGPT", "Vendor/OpenAI", "Area/AI", "Type/Connector"]
+keywords = ["ChatGPT", "Vendor/OpenAI", "Area/AI & Machine Learning", "Type/Connector"]
 icon = "icon.png"
 repository = "https://github.com/ballerina-platform/module-ballerinax-openai"
 
