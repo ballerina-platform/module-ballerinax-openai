@@ -1,7 +1,6 @@
 ## Overview
-[OpenAI](https://openai.com/) provides a suite of powerful AI models and services for natural language processing, code generation, image understanding, and more.
 
-The OpenAI connector offers APIs to easily connect and interact with [OpenAI's RESTful API](https://openai.com/api/) endpoints, enabling seamless integration with models such as GPT, Whisper, and DALL·E.
+The `openai` module is a comprehensive, fully-typed REST connector that covers OpenAI's entire [REST API](https://platform.openai.com/docs/api-reference) — including chat completions, responses, assistants, audio, images, embeddings, batches, files, and fine-tuning — in a single client. Use it for direct, low-level access to any OpenAI endpoint; for a single endpoint group use a focused connector such as `openai.chat` or `openai.audio`, and for the `ballerina/ai` agent framework use `ai.openai`.
 
 ### Key Features
 - Access to advanced AI models including GPT-4o, GPT-4, and GPT-3.5
